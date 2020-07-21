@@ -41,4 +41,3 @@ CREATE TABLE salaries (
 	FOREIGN KEY (emp_no) REFERENCES employee(emp_no)
 );
 
-select * from title
